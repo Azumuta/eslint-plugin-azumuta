@@ -49,3 +49,6 @@ If no operator is set, the last element should be an **exact match** with the so
 The tuples are processed sequentially in the given order, for each import, to determine that import's intended order.
 The ``*`` string is a special case, it catches all remaining imports. 
 It is always processed last but can be anywhere in the tuple list, for convenience sake.
+
+## Mainained
+This repository is maintained by the work [instruction platform](https://www.azumuta.com) [Azumuta](https://www.azumuta.com).
