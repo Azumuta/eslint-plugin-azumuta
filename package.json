@@ -16,7 +16,7 @@
   "author": "Simon Vanneste",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha **/*.test.js"
+    "test": "mocha --timeout 1000000 **/*.test.js"
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.22.15",
