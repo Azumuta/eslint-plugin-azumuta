@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-azumuta",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Enforce Azumuta style rules for imports",
   "keywords": [
     "eslint",
