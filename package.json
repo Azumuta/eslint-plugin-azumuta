@@ -21,7 +21,8 @@
   "dependencies": {
     "@babel/eslint-parser": "^7.22.15",
     "lodash": "^4.17.10",
-    "requireindex": "~1.1.0"
+    "requireindex": "~1.1.0",
+    "eslint-plugin-import": "^2.22.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",
@@ -49,7 +50,6 @@
     "@babel/preset-react": "^7.10.4",
     "chai": "^4.3.10",
     "eslint": "~7.6.0",
-    "eslint-plugin-import": "^2.22.0",
     "mocha": "^10.2.0"
   },
   "engines": {
