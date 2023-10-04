@@ -15,6 +15,7 @@
   },
   "author": "Simon Vanneste",
   "main": "lib/index.js",
+  "files": ["lib/index.js", "lib/rules/*.js"],
   "scripts": {
     "test": "mocha --timeout 1000000 '{,!(node_modules)/**}/*.test.js'"
   },
