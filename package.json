@@ -19,7 +19,6 @@
     "test": "mocha --timeout 1000000 '{,!(node_modules)/**}/*.test.js'"
   },
   "dependencies": {
-    "@babel/eslint-parser": "^7.22.15",
     "lodash": "^4.17.10",
     "requireindex": "~1.1.0"
   },
