@@ -54,9 +54,9 @@
     "@babel/plugin-transform-typescript": "^7.26.8",
     "@babel/preset-env": "^7.26.9",
     "@babel/preset-react": "^7.26.3",
-    "@typescript-eslint/parser": "^8.26.1",
+    "@typescript-eslint/parser": "^8.34.0",
     "chai": "^5.2.0",
-    "eslint": "^9.22.0",
+    "eslint": "^9.28.0",
     "mocha": "^11.1.0"
   },
   "engines": {
